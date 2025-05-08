@@ -1,0 +1,1 @@
+# OCR-System-for-Handwritten-Text
